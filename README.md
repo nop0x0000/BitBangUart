@@ -6,7 +6,7 @@ This software is incomplete.
 BitBanUart is a library for asynchronous serial communication using GPIO with a
 small embedded CPU.
 
-##Usage
+## Usage
 
     #include "bit_bang_uart.h"
 
